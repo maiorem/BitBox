@@ -22,9 +22,9 @@ Only 자바 콘솔 영화 예매 프로그램
 
 ### 컨텐츠 코드파일    
 
-*[메뉴 인터페이스 관리](https://github.com/alikwon/BitBox/tree/master/src/Main_Menu)    
-*[회원/비회원 관리](https://github.com/alikwon/BitBox/tree/master/src/user)    
-*[영화 관리](https://github.com/alikwon/BitBox/tree/master/src/Movie)    
-*[시간표 관리](https://github.com/alikwon/BitBox/tree/master/src/TimeTable)    
-*[티켓 관리](https://github.com/alikwon/BitBox/tree/master/src/Ticket)    
+* [메뉴 인터페이스 관리](https://github.com/alikwon/BitBox/tree/master/src/Main_Menu)    
+* [회원/비회원 관리](https://github.com/alikwon/BitBox/tree/master/src/user)    
+* [영화 관리](https://github.com/alikwon/BitBox/tree/master/src/Movie)    
+* [시간표 관리](https://github.com/alikwon/BitBox/tree/master/src/TimeTable)    
+* [티켓 관리](https://github.com/alikwon/BitBox/tree/master/src/Ticket)    
  
