@@ -4,7 +4,7 @@ Only 자바 콘솔 영화 예매 프로그램
 <hr/>    
 
 ### 개발도구
-Java 8.0
+Java 8.0    
 eclipse
 
 <hr/>
