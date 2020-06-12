@@ -1,7 +1,7 @@
 # BitBox
 Only 자바 콘솔 영화 예매 프로그램
 
-<hr />
+<hr />    
 ### 프로젝트 PPT
 
 목차
@@ -17,7 +17,7 @@ Only 자바 콘솔 영화 예매 프로그램
     
 [링크](https://docs.google.com/presentation/d/1Da9X1zlmgbhgzLRI3LbNmqpqEQVtm2HnuEIIJNCTj0U/edit?usp=sharing)
 
-<hr />
+<hr />    
 ### 컨텐츠 코드파일
 [메뉴 인터페이스 관리](https://github.com/maiorem/BitBoxBackup/tree/master/BitBox/src/Main_Menu)    
 [회원/비회원 관리](https://github.com/maiorem/BitBoxBackup/tree/master/BitBox/src/user)    
