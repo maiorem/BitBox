@@ -13,11 +13,12 @@ Only 자바 콘솔 영화 예매 프로그램
   * 영화 관리
   * 티켓 관리
 4. 개선 사항
-    [링크](https://docs.google.com/presentation/d/1Da9X1zlmgbhgzLRI3LbNmqpqEQVtm2HnuEIIJNCTj0U/edit?usp=sharing)
+     [링크](https://docs.google.com/presentation/d/1Da9X1zlmgbhgzLRI3LbNmqpqEQVtm2HnuEIIJNCTj0U/edit?usp=sharing)
 
 # 컨텐츠 코드파일
 [메뉴 인터페이스 관리](https://github.com/maiorem/BitBoxBackup/tree/master/BitBox/src/Main_Menu)
-   [회원/비회원 관리](https://github.com/maiorem/BitBoxBackup/tree/master/BitBox/src/user)
-   [영화 관리](https://github.com/maiorem/BitBoxBackup/tree/master/BitBox/src/Movie)
-   [시간표 관리](https://github.com/maiorem/BitBoxBackup/tree/master/BitBox/src/TimeTable)
-   [티켓 관리](https://github.com/maiorem/BitBoxBackup/tree/master/BitBox/src/Ticket)
+    [회원/비회원 관리](https://github.com/maiorem/BitBoxBackup/tree/master/BitBox/src/user)
+    [영화 관리](https://github.com/maiorem/BitBoxBackup/tree/master/BitBox/src/Movie)
+    [시간표 관리](https://github.com/maiorem/BitBoxBackup/tree/master/BitBox/src/TimeTable)
+    [티켓 관리](https://github.com/maiorem/BitBoxBackup/tree/master/BitBox/src/Ticket)
+ 
