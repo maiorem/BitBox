@@ -6,18 +6,18 @@ Only 자바 콘솔 영화 예매 프로그램
 목차
 1. 클래스 구성도
 2. 회원 모드
-  1) 회원의 생성, 예매, 예매확인, 수정, 삭제
+  * 회원의 생성, 예매, 예매확인, 수정, 삭제
 3. 관리자 모드
-  1) 상영관 관리
-  2) 시간표 관리
-  3) 영화 관리
-  4) 티켓 관리
+  * 상영관 관리
+  * 시간표 관리
+  * 영화 관리
+  * 티켓 관리
 4. 개선 사항
-[링크](https://docs.google.com/presentation/d/1Da9X1zlmgbhgzLRI3LbNmqpqEQVtm2HnuEIIJNCTj0U/edit?usp=sharing)
+    [링크](https://docs.google.com/presentation/d/1Da9X1zlmgbhgzLRI3LbNmqpqEQVtm2HnuEIIJNCTj0U/edit?usp=sharing)
 
 # 컨텐츠 코드파일
 [메뉴 인터페이스 관리](https://github.com/maiorem/BitBoxBackup/tree/master/BitBox/src/Main_Menu)
-[회원/비회원 관리](https://github.com/maiorem/BitBoxBackup/tree/master/BitBox/src/user)
-[영화 관리](https://github.com/maiorem/BitBoxBackup/tree/master/BitBox/src/Movie)
-[시간표 관리](https://github.com/maiorem/BitBoxBackup/tree/master/BitBox/src/TimeTable)
-[티켓 관리](https://github.com/maiorem/BitBoxBackup/tree/master/BitBox/src/Ticket)
+   [회원/비회원 관리](https://github.com/maiorem/BitBoxBackup/tree/master/BitBox/src/user)
+   [영화 관리](https://github.com/maiorem/BitBoxBackup/tree/master/BitBox/src/Movie)
+   [시간표 관리](https://github.com/maiorem/BitBoxBackup/tree/master/BitBox/src/TimeTable)
+   [티켓 관리](https://github.com/maiorem/BitBoxBackup/tree/master/BitBox/src/Ticket)
